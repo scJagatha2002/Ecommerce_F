@@ -1,7 +1,6 @@
 # Getting Started with Frontend
 
 ## Packages That needs To Be Installed
-<br>
 Material UI - [https://mui.com/material-ui/getting-started/installation/]
 <br>
 Tailwind CSS - [https://tailwindcss.com/docs/installation]
@@ -19,7 +18,6 @@ Axios - [https://axios-http.com/docs/intro]
 ## Features Included
 
 ### User Portal
-<br>
 Carousal to display the featured products
 <br>
 A responsive navigation bar to navigate to products easily
@@ -31,7 +29,6 @@ Filters, to filter product based on colour, size, discount and avaiilability and
 Pagination 
 
 ### Admin Portal
-<br>
 Admin can add, view, update and delete the products
 <br>
 Admin can view the customer details
