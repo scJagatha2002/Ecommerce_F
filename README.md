@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Frontend
 
 ## Packages That needs To Be Installed
 <br>
@@ -16,9 +16,9 @@ Redux Thunk Middleware - [https://www.npmjs.com/package/redux-thunk]
 <br>
 Axios - [https://axios-http.com/docs/intro]
 
-# Features Included
+## Features Included
 
-## User Portal
+### User Portal
 <br>
 Carousal to display the featured products
 <br>
@@ -30,13 +30,18 @@ Filters, to filter product based on colour, size, discount and avaiilability and
 <br>
 Pagination 
 
-## Admin Portal
+### Admin Portal
 <br>
 Admin can add, view, update and delete the products
 <br>
 Admin can view the customer details
 <br>
 Admin can view, update the status, and delete the orders.
+
+### Backend
+[https://github.com/scJagatha2002/Ecommerce-B]
+
+
 
 
 
