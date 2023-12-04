@@ -16,9 +16,9 @@ Redux Thunk Middleware - [https://www.npmjs.com/package/redux-thunk]
 <br>
 Axios - [https://axios-http.com/docs/intro]
 
-## Features Included
+# Features Included
 
-# User Portal
+## User Portal
 <br>
 Carousal to display the featured products
 <br>
@@ -30,7 +30,7 @@ Filters, to filter product based on colour, size, discount and avaiilability and
 <br>
 Pagination 
 
-# Admin Portal
+## Admin Portal
 <br>
 Admin can add, view, update and delete the products
 <br>
