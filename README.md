@@ -15,3 +15,30 @@ Redux - [https://react-redux.js.org/introduction/getting-started#installation]
 Redux Thunk Middleware - [https://www.npmjs.com/package/redux-thunk]
 <br>
 Axios - [https://axios-http.com/docs/intro]
+
+## Features Included
+
+# User Portal
+<br>
+Carousal to display the featured products
+<br>
+A responsive navigation bar to navigate to products easily
+<br>
+A search bar 
+<br>
+Filters, to filter product based on colour, size, discount and avaiilability and to filter orders based on the status
+<br>
+Pagination 
+
+# Admin Portal
+<br>
+Admin can add, view, update and delete the products
+<br>
+Admin can view the customer details
+<br>
+Admin can view, update the status, and delete the orders.
+
+
+
+
+
