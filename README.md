@@ -1,4 +1,4 @@
-# Getting Started with Frontend
+# Getting Started with React Frontend
 
 ## Packages That needs To Be Installed
 Material UI - [https://mui.com/material-ui/getting-started/installation/]
